@@ -1,13 +1,13 @@
 [
     {
         "name": "Google",
-        "alias": "goog",
+        "alias": "google",
         "tag": "search",
         "url": "https://google.com"
     },
     {
         "name": "GitHub",
-        "alias": "g",
+        "alias": "github",
         "tag": "code",
         "url": "https://github.com"
     }
