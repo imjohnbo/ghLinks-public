@@ -10,11 +10,5 @@
         "alias": "github",
         "tag": "code",
         "url": "https://github.com"
-    },
-    {
-        "name": "duck duck go",
-        "alias": "ddg",
-        "tag": "search",
-        "url": "https://duckduckgo.com"
     }
 ]
