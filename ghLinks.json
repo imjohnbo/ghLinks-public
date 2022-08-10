@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Google",
+        "alias": "goog",
+        "tag": "search",
+        "url": "https://google.com"
+    },
+    {
+        "name": "GitHub",
+        "alias": "g",
+        "tag": "code",
+        "url": "https://github.com"
+    }
+]
